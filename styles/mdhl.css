@@ -59,7 +59,7 @@ section {
 }
 
 .logo {
-  width: 70%;
+  width: 130px;
   padding-top: 25px;
   padding-left: 20px;
 }
@@ -94,3 +94,14 @@ h2 {
     color: blue;
     text-decoration: underline black;
 }
+
+.pa-container {
+    text-indent: 1rem;
+    margin: -12px;
+    padding-left: 15px;
+}
+
+.t-container {
+    width: 85%;
+    padding: 30px 20px;
+  }
