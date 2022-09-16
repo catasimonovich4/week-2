@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  padding: 0px 30px;
+  padding: 0px 30px 5px 30px;
 }
 
 nav {
@@ -45,8 +45,8 @@ li {
 
 .image-container {
   background-image: url(../assets/images/design1_image2.jpg);
-  height: 40vh;
-  background-position-y: 70%;
+  height: 30vh;
+  background-position-y: 75%;
   background-size: cover;
 }
 
@@ -99,6 +99,7 @@ h2 {
     text-indent: 1rem;
     margin: -12px;
     padding-left: 15px;
+    font-size: 15px;
 }
 
 .t-container {
